@@ -1,4 +1,7 @@
 # Taipan for VSCode
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/rautenbergf.taipan?style=for-the-badge&color=44BEA7)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/rautenbergf.taipan?style=for-the-badge&color=F5367B)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20on-vscode.dev-B74413?style=for-the-badge)](https://vscode.dev/theme/rautenbergf.taipan/Taipan%20Dark)
 
 ![unpleasant gradient](img/unpleasant_gradient.webp)
 
