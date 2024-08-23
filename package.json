@@ -3,9 +3,17 @@
   "displayName": "Taipan Color Theme",
   "description": "dress your bugs in style",
   "repository": {
-    "url": "https://github.com/rautenbergf/taipan"
+    "type": "git",
+    "url": "https://github.com/rautenbergf/taipan.git"
   },
-  "version": "0.0.1",
+  "icon": "img/icon.png",
+  "publisher": "rautenbergf",
+  "license": "WTFPL",
+  "galleryBanner": {
+		"color": "#141312",
+		"theme": "dark"
+	},
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.86.0"
   },
