@@ -1,7 +1,7 @@
 {
   "name": "taipan",
   "displayName": "Taipan Color Theme",
-  "description": "dress your bugs in style",
+  "description": "9 out of 10 developers will use this theme",
   "repository": {
     "type": "git",
     "url": "https://github.com/rautenbergf/taipan.git"
@@ -10,9 +10,9 @@
   "publisher": "rautenbergf",
   "license": "WTFPL",
   "galleryBanner": {
-		"color": "#141312",
-		"theme": "dark"
-	},
+    "color": "#141312",
+    "theme": "dark"
+  },
   "version": "0.0.3",
   "engines": {
     "vscode": "^1.86.0"
