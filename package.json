@@ -1,7 +1,7 @@
 {
   "name": "taipan",
   "displayName": "Taipan Color Theme",
-  "description": "9 out of 10 developers will use this theme",
+  "description": "A vibrant and unique color theme for VSCode",
   "repository": {
     "type": "git",
     "url": "https://github.com/rautenbergf/taipan.git"
@@ -13,7 +13,7 @@
     "color": "#141312",
     "theme": "dark"
   },
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.86.0"
   },
