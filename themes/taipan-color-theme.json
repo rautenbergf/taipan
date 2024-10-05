@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.foreground": "#e0dad7",
 		"welcomePage.background": "#141312",
-		"editorGroup.emptyBackground": "#181a27",
+		"editorGroup.emptyBackground": "#141312",
 		"commandCenter.background": "#141312",
 		"editorGutter.background": "#141312",
 		"titleBar.activeBackground": "#141312",
